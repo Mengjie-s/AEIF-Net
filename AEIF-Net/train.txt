@@ -1,0 +1,1 @@
+python mri_rec_main.py --model AEIF-Net --batch_size 1 --n_epochs 30 --mask equispaced_fraction --gpuid 0 --modal T2 --acceleration 4 --data_name IXI
